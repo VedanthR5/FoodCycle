@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1",
+    "name": "Seasonal Fruits",
+    "description": "A selection of locally grown, in-season fruits such as apples, peaches, and berries.",
+    "price": 2.50
+  },
+  {
+    "id": "2",
+    "name": "Honey and Jams",
+    "description": "A pairing of small-batch, local honey and homemade fruit jam.",
+    "price": 3.00
+  },
+  {
+    "id": "3",
+    "name": "Organic Produce",
+    "description": "A selection of seasonal, organic fruits and vegetables, hand-picked by HEB, making it easy to create healthy, delicious meals.",
+    "price": 2.50
+  },
+  {
+    "id": "4",
+    "name": "Organic Baby Carrots",
+    "description": "A selection of locally grown and exported baby carrots.",
+    "price": 0
+    
+  }
+  
+]

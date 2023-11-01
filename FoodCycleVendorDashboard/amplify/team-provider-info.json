@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-foodcycledashboard-staging-153027-authRole",
+      "UnauthRoleArn": "arn:aws:iam::520201229566:role/amplify-foodcycledashboard-staging-153027-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::520201229566:role/amplify-foodcycledashboard-staging-153027-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-foodcycledashboard-staging-153027-deployment",
+      "UnauthRoleName": "amplify-foodcycledashboard-staging-153027-unauthRole",
+      "StackName": "amplify-foodcycledashboard-staging-153027",
+      "StackId": "arn:aws:cloudformation:us-east-2:520201229566:stack/amplify-foodcycledashboard-staging-153027/40e86f80-7739-11ee-8d44-02baf4ac33d5",
+      "AmplifyAppId": "d3n1kwbhhjhozc"
+    },
+    "categories": {
+      "auth": {
+        "FoodCycleDashboard": {}
+      }
+    }
+  }
+}

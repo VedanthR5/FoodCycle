@@ -1,0 +1,20 @@
+[
+  {
+    "orderID": "F8762",
+    "price": 33.99,
+    "deliveryAddress": "3227 E 5th St., Austin, TX 78702",
+    "status": "Delivered"
+  },
+  {
+    "orderID": "A9245",
+    "price": 94.35,
+    "deliveryAddress": "7909 Crandall Road, Austin, TX 78739",
+    "status": "In Progress"
+  },
+  {
+    "orderID": "Y7902",
+    "price": 6.99,
+    "deliveryAddress": "2514 Business Center Dr, Austin, TX 78744",
+    "status": "Declined"
+  }
+]
