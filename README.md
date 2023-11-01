@@ -20,7 +20,7 @@ Additionally, we worked to empower local food markets and businesses to share th
 
 ### User Side
 
-<img src="https://github.com/VedanthR5/FoodCycle/assets/72107210/f3f54e89-6224-4638-97fa-5cbbb7f0833d" alt="User Side Screenshot" width="400"/>
+<img src="https://github.com/VedanthR5/FoodCycle/assets/72107210/f3f54e89-6224-4638-97fa-5cbbb7f0833d" alt="User Side Screenshot" width="200" height="200/>
 
 
 ### Dashboard
